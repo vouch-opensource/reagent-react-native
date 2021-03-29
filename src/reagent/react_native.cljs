@@ -16,6 +16,7 @@
 (def text (r/adapt-react-class rn/Text))
 (def text-input (r/adapt-react-class rn/TextInput))
 (def touchable-highlight (r/adapt-react-class rn/TouchableHighlight))
+(def touchable-opacity (r/adapt-react-class rn/TouchableOpacity))
 (def touchable-without-feedback (r/adapt-react-class rn/TouchableWithoutFeedback))
 (def view (r/adapt-react-class rn/View))
 (def virtualized-list (r/adapt-react-class rn/VirtualizedList))
