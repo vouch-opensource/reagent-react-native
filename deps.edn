@@ -1,1 +1,1 @@
-{:deps {reagent/reagent {:mvn/version "0.10.0"}}}
+{:deps {reagent/reagent {:mvn/version "1.2.0"}}}
